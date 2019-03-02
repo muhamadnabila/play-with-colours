@@ -1,0 +1,66 @@
+body {
+    text-align: center;
+}
+#lingkaran1{
+    margin:  auto;
+    width: 100px;
+    height: 100px;
+    background: lightcoral;
+    border-radius: 100%;
+    margin: 20px;
+    margin-left: 350px;
+
+    float: left;
+}
+#lingkaran2{
+    width: 100px;
+    height: 100px;
+    background:lightslategrey;
+    border-radius: 100%;
+    float: left;
+    margin: 20px
+}
+#lingkaran3{
+    width: 100px;
+    height: 100px;
+    background: lightseagreen;
+    border-radius: 100%;
+    float: left;
+    margin: 20px
+}
+#lingkaran4{
+    width: 100px;
+    height: 100px;
+    background:lightgreen ;
+    border-radius: 100%;
+    float: left;
+    margin: 20px
+}
+#lingkaran5{
+    width: 100px;
+    height: 100px;
+    background: lightblue;
+    border-radius: 100%;
+    float: left;
+    margin: 20px
+}
+#lingkaran1:hover {
+    cursor: pointer;
+    opacity: 0.5;
+}
+#lingkaran2:hover {
+    cursor: pointer;
+    opacity: 0.5;
+}
+#lingkaran3:hover {
+    cursor: pointer;
+    opacity: 0.5;
+}
+#lingkaran4:hover {
+    cursor: pointer;
+    opacity: 0.5;
+}
+#lingkaran5:hover {
+    cursor: pointer;
+    opacity: 0.5;
+}
